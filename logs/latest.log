@@ -1,0 +1,30 @@
+[16:26:30] [main/INFO]: Setting user: Player93
+[16:26:32] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:26:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ibescodfNL
+[16:26:40] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ibescodfNL_TestMod/ in /Users/Miguel/Dropbox/Mods/TestMod-1.7/bin
+[16:26:41] [Sound Library Loader/INFO]: Sound engine started
+[16:26:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[16:26:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[16:26:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ibescodfNL
+[16:26:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ibescodfNL_TestMod/ in /Users/Miguel/Dropbox/Mods/TestMod-1.7/bin
+[16:26:42] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:26:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:26:43] [Sound Library Loader/INFO]: Sound engine started
+[16:26:46] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:26:46] [Server thread/INFO]: Generating keypair
+[16:26:46] [Server thread/INFO]: Preparing start region for level 0
+[16:26:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:26:48] [Server thread/INFO]: Player93[local:E:4f210da5] logged in with entity id 570 at (-403.5, 71.0, -262.5)
+[16:26:48] [Server thread/INFO]: Player93 joined the game
+[16:26:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2066ms behind, skipping 41 tick(s)
+[16:26:51] [Server thread/INFO]: Player93 has just earned the achievement [Taking Inventory]
+[16:26:51] [Client thread/INFO]: [CHAT] Player93 has just earned the achievement [Taking Inventory]
+[16:26:58] [Client thread/INFO]: Stopping!
+[16:26:58] [Server thread/INFO]: Stopping server
+[16:26:58] [Server thread/INFO]: Saving players
+[16:26:58] [Server thread/INFO]: Saving worlds
+[16:26:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:26:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:26:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:26:58] [Client Shutdown Thread/INFO]: Stopping server
+[16:26:58] [Client Shutdown Thread/INFO]: Saving players

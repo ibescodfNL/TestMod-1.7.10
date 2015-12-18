@@ -2,6 +2,7 @@ package com.github.ibescodfnl.testmod;
 
 import com.github.ibescodfnl.init.ModBlocks;
 import com.github.ibescodfnl.init.ModItems;
+import com.github.ibescodfnl.testmod.crafting.Recipes;
 import com.github.ibescodfnl.testmod.help.Reference;
 
 import cpw.mods.fml.common.Mod;
@@ -19,7 +20,7 @@ public class TestMod {
 	
 	@Mod.EventHandler
 	public void Init(FMLInitializationEvent event) {
-
+		ModRecipes.init();
 	}
 	
 	@Mod.EventHandler

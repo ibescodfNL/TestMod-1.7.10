@@ -1,5 +1,7 @@
 item.greenIngot.name=§aGreen Ingot§r
+item.greenNugget.name=§aGreen Nugget§r
 
+tile.greenBlock.name=§aGreen Block§r
 tile.greenOre.name=§aGreen Ore§r
 
-itemGroup.TestMod=TestMod
+itemGroup.tabTestMod=TestMod

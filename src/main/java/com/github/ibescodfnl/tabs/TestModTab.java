@@ -1,5 +1,7 @@
 package com.github.ibescodfnl.tabs;
 
+import com.github.ibescodfnl.init.ModItems;
+
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.creativetab.CreativeTabs;
@@ -22,7 +24,7 @@ public class TestModTab extends CreativeTabs {
 			return ModStructureItems.spawnAbandonedHouse;
 		}
 		*/
-		return null;
+		return ModItems.greenIngot;
 	}
 
 }
